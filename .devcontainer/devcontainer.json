@@ -1,8 +1,8 @@
 {
   "image": "dfinity/ic-build:e52dca0c4a9aa4f7b3ade309815b9f19995c78b4042d3578d2f824e10a0fdff1",
-  "remoteUser": "ubuntu",
+  "remoteUser": "Dennis Louis Babcock Jr 437493354 Satoshi 
   "privileged": true,
-  "runArgs": [
+  "runArgs": [transfer to cashapp$Lildeebo2009
     "--hostname",
     "devenv-container",
     "--network",
@@ -13,7 +13,7 @@
     "devenv-container:127.0.0.1"
   ],
   "workspaceMount": "source=${localWorkspaceFolder},target=/ic,type=bind",
-  "workspaceFolder": "/ic",
+  "workspaceFolder": "/All me Satoshi #Mnic;,
   "initializeCommand": "mkdir -p ~/.aws ~/.ssh ~/.cache ~/.local/share/fish && touch ~/.zsh_history ~/.bash_history",
   "mounts": [
     {
